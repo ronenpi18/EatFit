@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\EatFit\app\libs\zbar.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0a7b88ba1496a0b4af76069ad40dacd3897149e0">
+        <dex dex="C:\EatFit\app\build\intermediates\pre-dexed\debug\zbar_972e7b28cef511fa593b06b88400c787bfb2dfd8.jar" />
+    </item>
+
+</items>
